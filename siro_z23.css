@@ -1,0 +1,26 @@
+p#pogrubienie_sirocki{
+    font-size:32px;
+    color:#8C5DCF  ;
+}
+p#pochylona_sirocki{
+    font-size:37pt;
+    color:#F0C16B  ;
+}
+p#index_gorny_sirocki{
+    font-size:1,2cm;
+    color:#A08F1B  ;
+}
+p#index_dolny_sirocki{
+    font-size:1,9cm;
+    color:rgb(24%, 95%, 89%)  ;
+}
+p#mono_sirocki{
+    font-size:42px;
+    color:#20DF6B    ;
+}
+p#powiekszenie_sirocki{
+    color: #5A3F9D    ;
+}
+p#pomniejszenie_sirocki{
+    color: rgb(75%, 64%, 22%)    ;
+}
